@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "consoletcpchat", "consoletcpchat\consoletcpchat.csproj", "{44C3009B-8111-4B4C-A830-6C2017832211}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "login api", "login api\login api.csproj", "{5255D9A1-22AC-4464-ADC5-AAF32D445147}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44C3009B-8111-4B4C-A830-6C2017832211}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44C3009B-8111-4B4C-A830-6C2017832211}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44C3009B-8111-4B4C-A830-6C2017832211}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44C3009B-8111-4B4C-A830-6C2017832211}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5255D9A1-22AC-4464-ADC5-AAF32D445147}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5255D9A1-22AC-4464-ADC5-AAF32D445147}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5255D9A1-22AC-4464-ADC5-AAF32D445147}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5255D9A1-22AC-4464-ADC5-AAF32D445147}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B46E88AA-12DB-425D-8701-622B87B79236}
+	EndGlobalSection
+EndGlobal
